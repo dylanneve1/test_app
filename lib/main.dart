@@ -1,3 +1,5 @@
+// Copyright Dylan Neve <dylanneve1@gmail.com> 2018
+
 import 'package:flutter/material.dart';
 
 void main() => runApp(new MyApp());
